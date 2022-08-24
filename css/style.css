@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: 2em;
+}
+h1 {
+    color: white;
+}
+.row {
+    padding: 1rem;
+}
+.barra {
+    background-color: rebeccapurple
+}
+.cajaBorde {
+    border-style: solid;
+    border-color: rebeccapurple;
+    height: 30vh;
+}
